@@ -13,3 +13,5 @@ test7 conflict solving master
 test7_7 conflict feature
 
 test8 tag
+
+test9 stashing
