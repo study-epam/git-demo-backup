@@ -6,3 +6,5 @@ test4
 
 test5 Feature
 test5_5
+
+test6 non fast-forward
