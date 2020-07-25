@@ -12,3 +12,4 @@ test6 non fast-forward
 test7 conflict solving master
 test7_7 conflict feature
 
+test8 tag
